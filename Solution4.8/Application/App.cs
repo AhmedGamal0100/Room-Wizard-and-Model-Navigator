@@ -18,7 +18,7 @@ namespace Solution4.Application
 {
     internal class App : IExternalApplication
     {
-        public string RibbonTabName { get => "NewRevitPlugin"; }
+        public string RibbonTabName { get => "BIMToolSuite"; }
         public string RibbonPanelName { get => "RevitPanel"; }
         public string ModelNavigatorRibbonPanelName { get => "ModelNavigator"; }
         public string RoomWizardRibbonPanelName { get => "RoomWizard"; }
