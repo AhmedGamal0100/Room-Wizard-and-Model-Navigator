@@ -50,7 +50,7 @@ Both plugins are built using the **Revit API (C#)** and help automate repetitive
 1. Launch **Model Navigator** from the Add-ins tab.  
 2. Use the tools to:  
    - **Update** element parameters.  
-   - **Select** elements by filter or ID.  
+   - **Select** elements.  
    - **Delete** unwanted elements.  
    - **Change Color** for visual checks and coordination.  
 
