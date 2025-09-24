@@ -13,17 +13,17 @@ Both plugins are built using the **Revit API (C#)** and help automate repetitive
 ## 🚀 Features  
 
 ### Room Wizard  
-- 🔹 **Room List Browser** – easily browse and select rooms in the project.  
-- 🔹 **Section Box Generator** – isolate selected rooms in a dedicated 3D view.  
-- 🔹 **Floor Creator** – automatically generate floors for selected rooms with custom thickness and material.  
-- 🔹 **Offset & Precision Control** – define base offsets and create LOD-ready geometry.  
-- 🔹 Ensures **non-overlapping floor generation** with update logic.  
+🔹 **Room List Browser** – easily browse and select rooms in the project.  
+🔹 **Section Box Generator** – isolate selected rooms in a dedicated 3D view.  
+🔹 **Floor Creator** – automatically generate floors for selected rooms with custom thickness and material.  
+🔹 **Offset & Precision Control** – define base offsets and create LOD-ready geometry.  
+🔹 Ensures **non-overlapping floor generation** with update logic.  
 
 ### Model Navigator  
-- 🔹 **Element Update** – modify parameters of selected elements directly.  
-- 🔹 **Quick Select** – filter and highlight elements for review.  
-- 🔹 **Batch Delete** – safely remove unwanted elements.  
-- 🔹 **Color Override** – apply temporary colors to elements for better visualization and coordination.  
+🔹 **Element Update** – modify parameters of selected elements directly.  
+🔹 **Quick Select** – filter and highlight elements for review.  
+🔹 **Batch Delete** – safely remove unwanted elements.  
+🔹 **Color Override** – apply temporary colors to elements for better visualization and coordination.  
 
 ---
 
