@@ -11,7 +11,7 @@
     Height="450"
     mc:Ignorable="d">
     <Window.Resources>
-        <ResourceDictionary Source="/Solution4;component/Styles/ModelNavigatorDict.xaml" />
+        <ResourceDictionary Source="/Solution4;component/Styles/ModelNavigatorDict .xaml" />
     </Window.Resources>
     <Grid Margin="10">
         <Grid.ColumnDefinitions>

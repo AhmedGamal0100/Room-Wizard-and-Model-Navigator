@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>RevitTrial</Name>
-		<Assembly>E:\Studies\06 Programming\OmarElmsalami Revit API Course\Trials\Solution4.8 - Plugin\Solution4.8\bin\Debug\net4.8\Solution4.dll</Assembly>
+		<Assembly>Solution4.dll</Assembly>
 		<FullClassName>Solution4.Application.App</FullClassName>
 		<ClientId>26742296-9CE2-46B8-9492-D80B3F679519</ClientId>
 		<VendorId>ِAG-DEV-TRIAL</VendorId>

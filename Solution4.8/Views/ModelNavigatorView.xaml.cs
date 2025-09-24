@@ -25,7 +25,6 @@ namespace Solution4.Views
         {
             InitializeComponent();
             Current = this;
-
         }
     }
 }
